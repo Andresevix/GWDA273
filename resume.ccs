@@ -1,0 +1,47 @@
+body {
+    font-family: courier;
+    background-color: white;
+    color: black;
+    padding-top: 20px;
+    text-align: left;
+  }
+
+  #freelance{
+    font-size: 8px;
+  }
+   a {
+    color: #14B69E;
+    text-decoration: none;
+  }
+   h2 {
+    font-family: courier;
+    color: blue;
+    text-decoration: italic;
+  }
+  #resume {
+    background-color: white;
+    color: black;
+    padding: 10px;
+  }
+  #resume p {
+    max-width: 800px;
+    margin: left 0px;
+  }
+  #resume h2{
+    color: blue;
+  }
+  #skills p {
+    max-width: 800px;
+    margin: : 0 auto;
+    color: white;
+    background-color: 
+    padding: 20px;
+  }
+  #center-left{
+    padding-left: 200px;
+    margin: auto;
+  }
+
+#left{
+    margin-left: 300px;
+  }
